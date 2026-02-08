@@ -6,4 +6,4 @@ Idea prompt: a thing that watches my project for TODO and FIXME comments and mak
 doesnt need to be fancy, just a script i can run
 
 ## Notes
-Generated using builder `script-heavy-builder` (6e2933e7-5d57-45f8-b2a3-fc5ce08a57ea) with fitness 0.150.
+Generated using builder `starter-builder` (c4ac44cc-c4de-4eb9-88cb-10a8b2ad969e) with fitness 0.150.
